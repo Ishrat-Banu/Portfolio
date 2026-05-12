@@ -3,6 +3,13 @@
 Welcome to my personal portfolio website.  
 This project is a clean and responsive portfolio built using HTML, CSS, and JavaScript to showcase my projects, skills, and interest in web development.
 
+## Live Demo
+
+You can also visit the portfolio here:  
+https://ishrat-portfolio.netlify.app/
+
+---
+
 ## About the Project
 
 This portfolio reflects my journey as a developer and learner.  
